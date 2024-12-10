@@ -81,5 +81,3 @@ The project consists of two main classes:
 The **Library Management System** is a comprehensive project that demonstrates a variety of Java concepts, such as object-oriented programming, collections, and data manipulation. This project is suitable for beginners to understand core Java features and apply them in a practical scenario. It can also be enhanced further by adding features like user authentication, multiple users, or database integration.
 
 ---
-
-Now you can copy this markdown and use it as your README file.
